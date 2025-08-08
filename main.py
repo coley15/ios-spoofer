@@ -1,7 +1,5 @@
-#!/usr/bin/env python3
-"""
-iOSSpoofer-X — keep-spoof fixed (prints reliably)
 
+"""
 Run as Administrator. Requires: click, rich, pyfiglet, pymobiledevice3.
 """
 
@@ -233,3 +231,4 @@ def main(timeout):
 
 if __name__ == "__main__":
     main()
+
